@@ -1,0 +1,6 @@
+{
+  "name": "BERT Sentiment Fine-Tuner",
+  "description": "An interactive playground and tutorial for tokenizing, hyperparameter tuning, and training a BERT model for sentiment analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
